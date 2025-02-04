@@ -2,3 +2,5 @@
 
 MAJ locale
 modification faite sur ma machine locale
+Voici une nouvelle modificiation
+Cette fois-ci avec supression d'une ligne
